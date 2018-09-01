@@ -22,3 +22,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 点击我的----->点击发布------>房屋出租  就可以看见picker组件
+
